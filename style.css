@@ -158,13 +158,13 @@ a{
     font-size:40px;
 }
 
-.name{
-    display:inline;
+.N1{
+    color:rgb(1, 68, 33);;
 }
 
 .bio1{
-    background-color:green;
-    margin-top:50px;
+    
+    margin-top:10px;
     padding-left:20px
 }
 
@@ -173,12 +173,17 @@ h4{
 }
 
 .bio{
-    margin-top:30px;
+    margin-top:10px;
     font-weight:500;
 }
-
+ul{
+    margin-left:40px;
+}
+.skill{
+    margin-left:20px;
+}
 .listItems{
-    padding-left:40px
+   margin-top:10px;
 
 }
 
